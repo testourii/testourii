@@ -70,7 +70,6 @@ Hello, my name is Houcem Testouri and I am a software engineer 🧑‍💻 and a
       </a>
       <br>AWS
     </td>
-   
   </tr>
   <tr>
     <td align="center" width="96"> 
@@ -79,8 +78,7 @@ Hello, my name is Houcem Testouri and I am a software engineer 🧑‍💻 and a
       </a>
       <br>Docker
     </td>
-    
-    <td align="center"  width="96">
+   <td align="center"  width="96">
       <a href="#macropower-tech">
         <img src="https://www.svgrepo.com/show/331488/mongodb.svg" width="48" height="48" alt="MongoDB" />
       </a>
