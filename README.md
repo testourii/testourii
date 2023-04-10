@@ -108,6 +108,12 @@ Hello, my name is Houcem Testouri and I am a software engineer 🧑‍💻 and a
   </a>
 
 </p>
+
+<h2 align="left" id="macropower-tech">My LeetCode Stats</h2>
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/testourii?theme=dark&font=Cantarell&ext=heatmap)](https://leetcode.com/testourii)
+
+
 <h2 align="left" id="macropower-tech">My Holpin Badges</h2>
 
   <p><a href="https://holopin.io/@testourii"><img src="https://holopin.me/testourii" alt="@testourii&#39;s Holopin board"></a></p>
